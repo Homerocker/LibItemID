@@ -1,0 +1,8 @@
+## Author: Homerocker
+## Title: Lib: ItemID
+## Version: 1.0
+## Notes: implements GetItemID() to get items and spells IDs from links
+## Interface: 30300
+## LoadOnDemand: 1
+
+LibItemID.lua
