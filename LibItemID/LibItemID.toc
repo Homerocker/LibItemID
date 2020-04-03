@@ -2,7 +2,9 @@
 ## Title: Lib: ItemID
 ## Version: 1.0
 ## Notes: implements GetItemID() to get items and spells IDs from links
+## OptionalDeps: LibStub
 ## Interface: 30300
 ## LoadOnDemand: 1
 
+LibStub.lua
 LibItemID.lua
